@@ -1,0 +1,7 @@
+***********************************OVERVIEW***********************************
+
+Blackjack is a popular card game thats been established 
+in casinos and online. The concept of the game is you
+must beat the dealer by getting close to 21 points but
+not exceeding it. This simulator uses an international 
+set of 52 cards without jokers.

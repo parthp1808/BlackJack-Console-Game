@@ -1,0 +1,4 @@
+*************************************RULES************************************
+
+You may either bet a custom amount or use standard 
+denominations ($1, $5, $25, $100). You must set a bet before receiving cards. The bet must be greater than $1.You win if: a. Dealer exceeds 21 points. b. You achieve 21 points. c. You are c-loser to 21 points than the dealer. If you win, you receive all the bets on the table. If you lose, you lose your bet. If you hit, you receive another card for more points. If you stand, you wait for the dealer's turn to end. If you double down, you double your bet, get one more card, and then its the dealer's turn. I-f you surrender, you receive half your bet back. If you receive an ace, it is e-ither 1 or 10 points. You must be over the age of 19 to play. 
